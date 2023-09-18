@@ -56,7 +56,7 @@ A line of just commas (`,,,,,...`) marks the separation between a pair of matric
 
 **InputTooLargeException**: Exception thrown when the user specifies a cutoff point in bfAndStrassensComboAlg() that is larger than the factor matrices
 
-**CSC310 Programming Assignment Data**: Contains all of the results for the formal experiment, including the graph.
+**CSC310 Programming Assignment Data.xlsx**: Contains all of the results for the formal experiment, including the graph.
 
 ### __How to run the program__:
 
